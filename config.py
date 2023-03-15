@@ -1,5 +1,5 @@
 # Токен от бота
-TOKEN = '6066745993:AAHLv1sV8O-HnNSgfUWOeXEatqUOxYzxekQ'
+TOKEN = 'xxxxx'
 
 # Настройки бд
 DATABASE_USER = "xxxxx"
